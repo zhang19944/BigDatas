@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_sysuserbattery
+columns=id:STRING,user_id:STRING,pid:STRING,sn:STRING,batteryid:STRING,p:STRING,d:STRING,f:STRING,errortime:STRING,content:STRING,create_time:STRING
+partitions=pt:STRING

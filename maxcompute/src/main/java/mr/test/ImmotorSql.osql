@@ -1,0 +1,4 @@
+--name:ImmotorSql
+--author:Ashley-张志强
+--create time:2019-05-07 16:55
+select * from origin_station_log where pt=20190506;

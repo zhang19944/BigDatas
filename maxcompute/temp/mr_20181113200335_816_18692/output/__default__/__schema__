@@ -1,0 +1,4 @@
+project=immotor_bidata
+table=to_loghub_scooter_everyroute_speedperkm
+columns=sid:STRING,starttime:DATETIME,endtime:DATETIME,speed:STRING
+partitions=pt:STRING

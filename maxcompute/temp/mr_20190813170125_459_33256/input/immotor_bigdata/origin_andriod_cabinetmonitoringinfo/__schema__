@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=origin_andriod_cabinetmonitoringinfo
+columns=info:STRING,collecttime:DATETIME
+partitions=pt:STRING

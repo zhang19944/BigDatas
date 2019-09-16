@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_typeonee_battery_device
+columns=prver:BIGINT,hwver:DOUBLE,blver:DOUBLE,fwmsv:DOUBLE,fwrev:DOUBLE,fwbnh:DOUBLE,fwbnl:DOUBLE,mcun12:DOUBLE,mcun34:DOUBLE,mcun56:DOUBLE,mcun78:DOUBLE,btype:DOUBLE,bvolt:DOUBLE,bcap:DOUBLE,sn12:DOUBLE,sn34:DOUBLE,sn56:DOUBLE,sn78:DOUBLE,erech:BIGINT,erecl:BIGINT,lrech:BIGINT,lrecl:BIGINT,ltsta_0:BIGINT,ltsta_1:BIGINT,ltsta_2:BIGINT,ltsta_3:BIGINT,ltsta_4:BIGINT,ltsta_5:BIGINT,ltsta_6:BIGINT,ltsta_7:BIGINT,ltsta_8:BIGINT,ltsta_9:BIGINT,ltsta_10:BIGINT,ltsta_11:BIGINT,ltsta_12:BIGINT,ltsta_13:BIGINT,ltsta_14:BIGINT,ltsta_15:BIGINT,ltmaxv:BIGINT,ltmaxvn:BIGINT,ltminv:BIGINT,ltminvn:BIGINT,ltmaxt:DOUBLE,ltmaxtn:BIGINT,ltmint:DOUBLE,ltmintn:BIGINT,ltmaxcc:DOUBLE,ltmaxdc:DOUBLE,bid:STRING,pid:STRING,port:BIGINT,type:BIGINT,collecttime:DATETIME
+partitions=pt:STRING

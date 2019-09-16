@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=pwd_cabinet_battery_hb3
+columns=pid:STRING,c:BIGINT,d:BIGINT,f:BIGINT,soc:BIGINT,nv:BIGINT,ccl:BIGINT,soh:BIGINT,p:BIGINT,t:BIGINT,nc:BIGINT,v:BIGINT,id:STRING,dc:BIGINT,time:DATETIME,version:BIGINT
+partitions=pt:STRING

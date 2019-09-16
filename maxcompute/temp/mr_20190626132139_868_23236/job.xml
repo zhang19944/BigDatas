@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+<property><name>odps.mapred.reduce.class</name><value>ashley.mrlogtype.BatteryInfo$SumReducer</value></property>
+<property><name>odps.mapred.local.download.mode</name><value>AUTO</value></property>
+<property><name>odps.mapred.local.record.download.limit</name><value>100</value></property>
+<property><name>odps.mapred.map.class</name><value>ashley.mrlogtype.BatteryInfo$TokenizerMapper</value></property>
+<property><name>odps.mapred.output.desc</name><value>[{"tblName":"pwd_battery_bv_info_result","partSpec":{"pt":"20190624"},"label":"__default__"}]</value></property>
+<property><name>odps.mapred.resources</name><value/></property>
+<property><name>odps.mapred.mapoutput.key.schema</name><value>id:STRING</value></property>
+<property><name>odps.mapred.job.name</name><value>mr_20190626132139_868_23236</value></property>
+<property><name>odps.mapred.mapoutput.value.schema</name><value>pid:STRING,pid_sn:STRING,p:BIGINT,id:STRING,id_sn:STRING,time:DATETIME,bv0:BIGINT,bv1:BIGINT,bv2:BIGINT,bv3:BIGINT,bv4:BIGINT,bv5:BIGINT,bv6:BIGINT,bv7:BIGINT,bv8:BIGINT,bv9:BIGINT,bv10:BIGINT,bv11:BIGINT,bv12:BIGINT,bv13:BIGINT,bv14:BIGINT,bv15:BIGINT,f:BIGINT,f_b2:BIGINT,c:BIGINT</value></property>
+<property><name>odps.mapred.local.temp.retain</name><value>true</value></property>
+<property><name>odps.mapred.input.desc</name><value>[{"tblName":"pwd_battery_bv_info","partSpec":{"pt":"20190624"},"label":"__default__"}]</value></property>
+</configuration>

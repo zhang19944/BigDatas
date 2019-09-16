@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_sysusermidresult
+columns=user_id:STRING,sn:STRING,pid:STRING,batteryid:STRING,content:STRING,timelogin:STRING,nextcontent:STRING,timeloginout:STRING,p:STRING,d:STRING,f:STRING,nextd:STRING,nextf:STRING,time:STRING,counts:BIGINT
+partitions=pt:STRING

@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_errortwo
+columns=sovp:BIGINT,sovpr:BIGINT,suvp1:BIGINT,suvpt1:DOUBLE,suvpr1:BIGINT,suvpsoc1:DOUBLE,suvpsoct1:DOUBLE,suvpsocr1:DOUBLE,suvp2:BIGINT,suvpr2:BIGINT,cocp:DOUBLE,cocpt:DOUBLE,docp1:DOUBLE,docpt1:DOUBLE,docp2:DOUBLE,dscp:DOUBLE,cotp:DOUBLE,cotpt:DOUBLE,cotpr:DOUBLE,dotp:DOUBLE,dotpt:DOUBLE,dotpr:DOUBLE,cutp:DOUBLE,cutpt:DOUBLE,cutpr:DOUBLE,dutp:DOUBLE,dutpt:DOUBLE,dutpr:DOUBLE,mosotp:DOUBLE,mosotpt:DOUBLE,mosotpr:DOUBLE,conotp:DOUBLE,conotpt:DOUBLE,conotpr:DOUBLE,sovw:BIGINT,sovwt:DOUBLE,sovwr:BIGINT,suvw:BIGINT,suvwt:DOUBLE,suvwr:BIGINT,cocw:DOUBLE,cocwt:DOUBLE,cocwr:DOUBLE,docw:DOUBLE,docwt:DOUBLE,docwr:DOUBLE,cotw:DOUBLE,cotwt:DOUBLE,cotwr:DOUBLE,dotw:DOUBLE,dotwt:DOUBLE,dotwr:DOUBLE,cutw:DOUBLE,cutwt:DOUBLE,cutwr:DOUBLE,dutw:DOUBLE,dutwt:DOUBLE,dutwr:DOUBLE,afecg:BIGINT,b16vg:BIGINT,bid:STRING,pid:STRING,port:BIGINT,type:BIGINT,collecttime:DATETIME
+partitions=pt:STRING

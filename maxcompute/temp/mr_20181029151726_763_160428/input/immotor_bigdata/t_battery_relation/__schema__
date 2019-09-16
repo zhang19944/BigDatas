@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=t_battery_relation
+columns=odps_id:BIGINT,odps_b_in:STRING,odps_b_out:STRING,odps_create_time:DATETIME,odps_e_type:BIGINT,odps_pid:STRING,odps_r_id:BIGINT,odps_status:BIGINT,odps_uid:BIGINT,odps_insoc:BIGINT,odps_outsoc:BIGINT,odps_op_phone:STRING,odps_update_time:DATETIME
+partitions=pt:STRING

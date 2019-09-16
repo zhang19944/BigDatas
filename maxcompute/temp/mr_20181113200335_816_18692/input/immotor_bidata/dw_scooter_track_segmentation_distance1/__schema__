@@ -1,0 +1,4 @@
+project=immotor_bidata
+table=dw_scooter_track_segmentation_distance1
+columns=sid:STRING,day:STRING,starttime:DATETIME,splacename:STRING,endtime:DATETIME,eplacename:STRING,costsoc:DOUBLE,seg:BIGINT,time_from:DATETIME,time_to:DATETIME,diff:BIGINT,lng1:DOUBLE,lat1:DOUBLE,lng2:DOUBLE,lat2:DOUBLE,dist:DOUBLE
+partitions=dt:STRING

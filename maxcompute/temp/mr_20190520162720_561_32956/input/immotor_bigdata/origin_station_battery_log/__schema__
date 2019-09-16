@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=origin_station_battery_log
+columns=content:STRING,collecttime:BIGINT
+partitions=pt:STRING

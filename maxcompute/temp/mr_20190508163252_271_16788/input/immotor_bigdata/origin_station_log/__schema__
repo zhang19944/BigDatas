@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=origin_station_log
+columns=datas:STRING,pid:STRING,time1:STRING,type:BIGINT
+partitions=pt:STRING

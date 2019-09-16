@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_batterycycle_soh
+columns=pid:STRING,tvolt:DOUBLE,soc:DOUBLE,soh:DOUBLE,cycle:BIGINT,collecttime:DATETIME,csop:DOUBLE,fuelt:DOUBLE
+partitions=ds:STRING

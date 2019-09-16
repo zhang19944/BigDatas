@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_typefour_battery_device
+columns=ctrl_0:BIGINT,ctrl_1:BIGINT,ctrl_2:BIGINT,ctrl_3:BIGINT,ctrl_4:BIGINT,ctrl_5:BIGINT,ctrl_6:BIGINT,ctrl_7:BIGINT,ctrl_8:BIGINT,ctrl_9:BIGINT,ctrl_10:BIGINT,ctrl_11:BIGINT,ctrl_12:BIGINT,ctrl_13:BIGINT,ctrl_14:BIGINT,ctrl_15:BIGINT,bmscer:STRING,hostcer:STRING,afeccal:DOUBLE,b16vcal:BIGINT,time:STRING,reset:BIGINT,record:DOUBLE,balctl:BIGINT,tctrl:BIGINT,tres_0:BIGINT,tres_1:BIGINT,tres_2:BIGINT,tres_3:BIGINT,tres_4:BIGINT,tres_5:BIGINT,tres_6:BIGINT,tres_7:BIGINT,tres_8:BIGINT,tres_9:BIGINT,tres_10:BIGINT,tres_11:BIGINT,tres_12:BIGINT,tres_13:BIGINT,tres_14:BIGINT,tres_15:BIGINT,bid:STRING,pid:STRING,port:BIGINT,type:BIGINT,collecttime:DATETIME
+partitions=pt:STRING

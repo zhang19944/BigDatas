@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=pwd_AndriodCabinetMonitoringInfo
+columns=pid:BIGINT,collecttime:BIGINT,heatcurrent:BIGINT,heatvoltage:BIGINT,heatpower:BIGINT,temperpms:BIGINT,temperbatteries:STRING,tempercharger:BIGINT,tempercabin:BIGINT,ammetervoltage:BIGINT,ammetercurrent:BIGINT,ammeterpower:BIGINT,ammeterinstanttotalpower:BIGINT,enabletemper:BIGINT,disabletemper:BIGINT,isauto:BOOLEAN,isenable:BOOLEAN,isvalid:BOOLEAN,recordtime:BIGINT,metertime:BIGINT
+partitions=ds:STRING

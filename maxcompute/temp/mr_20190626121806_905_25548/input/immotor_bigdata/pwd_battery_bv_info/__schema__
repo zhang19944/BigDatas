@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=pwd_battery_bv_info
+columns=pid:STRING,pid_sn:STRING,p:BIGINT,id:STRING,id_sn:STRING,time:DATETIME,bv0:BIGINT,bv1:BIGINT,bv2:BIGINT,bv3:BIGINT,bv4:BIGINT,bv5:BIGINT,bv6:BIGINT,bv7:BIGINT,bv8:BIGINT,bv9:BIGINT,bv10:BIGINT,bv11:BIGINT,bv12:BIGINT,bv13:BIGINT,bv14:BIGINT,bv15:BIGINT,f:BIGINT,f_b2:BIGINT
+partitions=pt:STRING

@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=pwd_cabinet_battery_type2n
+columns=empty:STRING,latitude:DOUBLE,longitude:DOUBLE,num:BIGINT,pid:STRING,type:BIGINT,valid:BIGINT,valid48:BIGINT,time:STRING
+partitions=pt:STRING

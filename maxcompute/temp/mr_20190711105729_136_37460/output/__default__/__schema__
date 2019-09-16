@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=datahub_batteries_mayorsure_result
+columns=pid:STRING,surein:BIGINT,maybein:BIGINT,origin:STRING,inport:STRING,outport:STRING,times:DATETIME
+partitions=pt:STRING

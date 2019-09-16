@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+<property><name>odps.mapred.reduce.class</name><value>ashley.mrlogtype.SysUserRecordResult$SumReducer</value></property>
+<property><name>odps.mapred.local.download.mode</name><value>AUTO</value></property>
+<property><name>odps.mapred.local.record.download.limit</name><value>100</value></property>
+<property><name>odps.mapred.map.class</name><value>ashley.mrlogtype.SysUserRecordResult$systemMapper</value></property>
+<property><name>odps.mapred.output.desc</name><value>[{"tblName":"test_sysresult","partSpec":{"pt":"20190625"},"label":"__default__"}]</value></property>
+<property><name>odps.mapred.resources</name><value/></property>
+<property><name>odps.mapred.mapoutput.key.schema</name><value>user_id:STRING,sn:STRING,p:STRING</value></property>
+<property><name>odps.mapred.job.name</name><value>mr_20190701163322_833_24920</value></property>
+<property><name>odps.mapred.mapoutput.value.schema</name><value>pid:STRING,batteryid:STRING,content:STRING,timelogin:STRING,nextcontent:STRING,loginout:STRING,d:STRING,f:STRING,nextd:STRING,nextf:STRING,time:STRING</value></property>
+<property><name>odps.mapred.local.temp.retain</name><value>true</value></property>
+<property><name>odps.mapred.input.desc</name><value>[{"tblName":"test_sysusermidresult","partSpec":{"pt":"20190625"},"label":"__default__"}]</value></property>
+</configuration>

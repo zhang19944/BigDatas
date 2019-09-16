@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c43bfa96-460f-47a1-a7cb-e9f0a3425972" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/battery_chargetime_50/target/" />
+    <ignored path="$USER_HOME$/Downloads/ehuandian-promotion-master/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="maxcompute" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4990366">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="7">
+                  <caret line="227" column="61" selection-start-line="227" selection-start-column="61" selection-end-line="227" selection-end-column="61" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#15285#15286#0" expanded="true" />
+                    <element signature="e#15318#15319#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/AshleyDateUtils.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="154">
+                  <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype6.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="344">
+                  <caret line="317" column="57" selection-start-line="317" selection-start-column="57" selection-end-line="317" selection-end-column="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype5.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="116">
+                  <caret line="227" column="90" selection-start-line="227" selection-start-column="11" selection-end-line="227" selection-end-column="90" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/AshleyUtils.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="154">
+                  <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/BatteryRecord.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1012">
+                  <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/banport/LogBanPort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="836">
+                  <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="8624">
+                  <caret line="463" column="18" selection-start-line="463" selection-start-column="18" selection-end-line="463" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#6769#6770#0" expanded="true" />
+                    <element signature="e#6807#6808#0" expanded="true" />
+                    <element signature="e#6943#6944#0" expanded="true" />
+                    <element signature="e#6985#6986#0" expanded="true" />
+                    <element signature="e#7140#7141#0" expanded="true" />
+                    <element signature="e#7185#7186#0" expanded="true" />
+                    <element signature="e#7347#7348#0" expanded="true" />
+                    <element signature="e#7389#7390#0" expanded="true" />
+                    <element signature="e#7540#7541#0" expanded="true" />
+                    <element signature="e#7585#7586#0" expanded="true" />
+                    <element signature="e#16080#16081#0" expanded="true" />
+                    <element signature="e#16114#16115#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="154">
+                  <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MaxCompute Sql Script" />
+        <option value="MaxCompute Mapper" />
+        <option value="MaxCompute MR Driver" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>one.set(42, Integer.parseInt(str[9] + str[10], 16) / 1.0)</find>
+      <find>Integer.parseInt(str[9] + str[10], 16) /4096</find>
+      <find>(Integer.parseInt(str[9] + str[10], 16) /4096)*3.3</find>
+      <find>(int)Short.parseShort</find>
+      <find>40</find>
+      <find>str</find>
+      <find>crcUtils</find>
+      <find>str1array[54] + str1array[55]</find>
+      <find>(long)</find>
+      <find>.getBv0() == 0</find>
+      <find>getBv0() == 0</find>
+      <find>batteryInfoBeanList.size()</find>
+      <find>ashleyDateUtils.timeToStamp</find>
+      <find>&lt;=</find>
+      <find>type</find>
+      <find>86400</find>
+      <find>166</find>
+      <find>origin_BatteryRealTimeDataCollectPartReadOnlyData</find>
+      <find>&quot;,&quot;</find>
+      <find>Long</find>
+      <find>long</find>
+      <find>dds-wz9cf1416c41e6041416-pub.mongodb.rds.aliyuncs.com:3717</find>
+      <find>partDeviceInfoBean</find>
+      <find>LogBean</find>
+      <find>str4array</find>
+      <find>43</find>
+      <find>str[47]+str[48]</find>
+      <find>Double</find>
+      <find>FastJ</find>
+      <find>return</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>s76</replace>
+      <replace>s77</replace>
+      <replace>s78</replace>
+      <replace>s79</replace>
+      <replace>s710</replace>
+      <replace>s711</replace>
+      <replace>s712</replace>
+      <replace>s713</replace>
+      <replace>s3</replace>
+      <replace>s4</replace>
+      <replace>one.set(42, Integer.parseInt(str[9] + str[10], 16) /4096*3.3)</replace>
+      <replace>(Integer.parseInt(str[9] + str[10], 16) /4096)</replace>
+      <replace>Double.parseDouble(df.format((Integer.parseInt(str[9] + str[10], 16) / 4096) * 3.3))</replace>
+      <replace>Integer.parseInt</replace>
+      <replace>s5</replace>
+      <replace>str1array[13] + str1array[14]</replace>
+      <replace>get</replace>
+      <replace>getC() ==0</replace>
+      <replace>result.setBigint(24,  batteryInfoBeanList.get(i).getF_b2());</replace>
+      <replace>array.length</replace>
+      <replace>dateToTimestamp</replace>
+      <replace>&lt;</replace>
+      <replace>167</replace>
+      <replace>logtype3</replace>
+      <replace>long</replace>
+      <replace>String</replace>
+      <replace>LogTypeElevenList</replace>
+      <replace>str</replace>
+      <replace>8</replace>
+      <replace>str[56]+str[57]</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\distance</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/MongoPromotion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/battery/HardBatteryRealTimePartOnlyData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mr/Android_BatteryRealTimeDataCollectPartReadOnlyData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/battery/origin_BatteryRealTimeDataCollectPartReadOnlyData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/origin_BatteryRealTimeDataCollectPartReadOnlyData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mongo/mongobean/PromotionCoupon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/Logtype2BackUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype2.java" />
+        <option value="C:\Users\ASHLEY~1\AppData\Local\Temp\immotor_bigdata" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/immotor_bigdata" />
+        <option value="$PROJECT_DIR$/src/main/java/mr/cabinet/Cabinet_battery_chargingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/distance/Distance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/UDF/WeekOfDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/UDF/YearOfDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/UDF/MonthOfDistance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/MonitorInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/MonitorInfoBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/MonitorBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/HeatDatasList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/TestJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/jsontest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/OriginAndriodCabinetMonitoringInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/distance/DataTemnitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/distance/DateTerminator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/origin_andriod_cabinetmonitoringinfo/TestFastJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/utils/dateUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/beans/LogListBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/beans/LogTypeElevenList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/beans/LogBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/beans/LogTypeElevenBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/CRCUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/utils/TestFastJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mongo/MongoPromotion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/CabinetElectricRead.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mr/cabinet/Cabinet_hb3_ec_hb1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/banport/LogBanPort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/test/record.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/test/BatteryRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/LogType11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/test2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/TestDataScan2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/UDF/ArrayCompare.java" />
+        <option value="$PROJECT_DIR$/src/main/java/battery/Battery_cycle_soh.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/utils/TimeToTamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="origin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="origin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="origin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="origin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="472" />
+    <option name="y" value="171" />
+    <option name="width" value="1330" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ashley" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ashley" type="462c0819:PsiDirectoryNode" />
+              <item name="mrlogtype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ashley" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\文档_数据字典" />
+      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\mrlogtype" />
+      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\utils" />
+      <recent name="E:\BaiduNetdiskDownload\maxcompute\src\main\java\util" />
+      <recent name="E:\BaiduNetdiskDownload\maxcompute\src\main\java\scooter" />
+      <recent name="E:\BaiduNetdiskDownload" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mr.test" />
+      <recent name="mr.cabinet" />
+      <recent name="battery" />
+      <recent name="mr" />
+      <recent name="temperature" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ashley.origin_andriod_cabinetmonitoringinfo" />
+      <recent name="ashley.beans" />
+      <recent name="bean.cabinet" />
+      <recent name="battery" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.testbtte">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashley.UDF.ArrayCompare" />
+      <module name="maxcompute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.UDF.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.ParseDemo" />
+      <module name="maxcompute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.mrlogtype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testbtte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ashley.test.testbtte" />
+      <module name="maxcompute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFastJson.testFastJson (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maxcompute" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ashley.utils" />
+      <option name="MAIN_CLASS_NAME" value="ashley.utils.TestFastJson" />
+      <option name="METHOD_NAME" value="testFastJson" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemUserRecord" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.SystemUserRecord" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_t_sys_station_log|pt=20190704 test_sysuserlog|pt=20190704" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.mongo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <odpsJavaType>MR</odpsJavaType>
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDataScan2" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.TestDataScan2" />
+      <module name="maxcompute" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <odpsJavaType>MR</odpsJavaType>
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="maxcompute" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="battery" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="mr.cabinet.Cabinet_hb3" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_log|pt=20190624 pwd_cabinet_battery_hb3|pt=20190624" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="battery_replace" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.batteryreplace.BatteryReplace" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="datahub_batteries_mayorsure|pt=20190710 datahub_batteries_mayorsure_result|pt=20190710" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logType6" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype6" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_battery_log|pt=20190527 log_devstapollcommand_type6|pt=20190527" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logtype1" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype1" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_battery_log|pt=20190518 hard_battery_device|pt=20190518" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ashley.mongo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <odpsJavaType>MR</odpsJavaType>
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logtype8" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype8" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_battery_log|pt=20190630 test_logtype_8|pt=20190630" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mongotranform" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mongo.MongoPromotion" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_mongo_t_coupon_record|pt=20190624 test_mongo|pt=20190624" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mr-origin_station_log--pwd_cabinet_battery_type2" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="MAIN_CLASS_NAME" value="mr.test.StationMrLog$StationMr" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_log|pt=&quot;20190506&quot; pwd_cabinet_battery_type2n|pt=20190506" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="origin_andriod_cabinetmonitoringinfo" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.origin_andriod_cabinetmonitoringinfo.OriginAndriodCabinetMonitoringInfo" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_andriod_cabinetmonitoringinfo|pt=20190811 pwd_AndriodCabinetMonitoringInfo|ds=20190811" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recordresult" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.SysUserRecordResult" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="test_sysusermidresult|pt=20190625 test_sysresult|pt=20190625" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="systemuser" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.SystemUser" />
+      <module name="maxcompute" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.BatteryInfo" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="pwd_battery_bv_info|pt=20190624 pwd_battery_bv_info_result|pt=20190624" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="mr.cabinet.Cabinet_hb3" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_log|pt=20190510 pwd_cabinet_battery_hb3|pt=20190510" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="type11" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.LogType11" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="test_export_battery_log|pt=20190820 pwd_battery_partlog_type11|pt=20190820" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="type2" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype2" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_battery_log|pt=20190610 hard_partprotectionparameter|pt=20190610" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="type3" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype3error" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_battery_log|pt=20190610 pwd_cabinet_batteryrealtimedatacollectpartreadonlydata|pt=20190610" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="type5" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype5" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="origin_station_battery_log|pt=20190610 hard_batterylog_data|pt=20190610" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="type7" type="OdpsJavaConfigurationType" factoryName="MaxCompute Java">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_181\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ashley.mrlogtype.logtype7" />
+      <module name="maxcompute" />
+      <option name="PROGRAM_PARAMETERS" value="test_log2|pt=20190830 test_battery7|pt=20190830" />
+      <odpsJavaType />
+      <odpsEndpoint>http://service.odps.aliyun.com/api</odpsEndpoint>
+      <odpsProjectName>immotor_bigdata</odpsProjectName>
+      <tableName />
+      <tableColumns />
+      <tablePartition />
+      <recordLimit>100000000</recordLimit>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmotorSql.osql" type="OdpsQLRunnerConfigurationType" factoryName="MaxCompute SQL">
+      <odps_target_file>$PROJECT_DIR$/src/main/java/mr/test/ImmotorSql.osql</odps_target_file>
+      <odps_output_dir>C:\Users\ASHLEY~1\AppData\Local\Temp\</odps_output_dir>
+      <job_name>ImmotorSql_osql</job_name>
+      <odps_parameter name="odps.compiler.runmode" value="Studio" />
+      <method v="2" />
+    </configuration>
+    <configuration name="immotor_bigdata" type="OdpsQLRunnerConfigurationType" factoryName="MaxCompute SQL">
+      <odps_target_file>$APPLICATION_CONFIG_DIR$/scratches/immotor_bigdata</odps_target_file>
+      <odps_output_dir>C:\Users\ASHLEY~1\AppData\Local\Temp\</odps_output_dir>
+      <job_name>immotor_bigdata</job_name>
+      <odps_parameter name="odps.compiler.runmode" value="Studio" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayCompare" />
+      <item itemvalue="Application.ParseDemo" />
+      <item itemvalue="Application.testbtte" />
+      <item itemvalue="JUnit.TestFastJson.testFastJson (1)" />
+      <item itemvalue="MaxCompute Java.type11" />
+      <item itemvalue="MaxCompute Java.systemuser" />
+      <item itemvalue="MaxCompute Java.logType6" />
+      <item itemvalue="MaxCompute Java.logtype8" />
+      <item itemvalue="MaxCompute Java.battery_replace" />
+      <item itemvalue="MaxCompute Java.recordresult" />
+      <item itemvalue="MaxCompute Java.type3" />
+      <item itemvalue="MaxCompute Java.mongotranform" />
+      <item itemvalue="MaxCompute Java.type5" />
+      <item itemvalue="MaxCompute Java.type2" />
+      <item itemvalue="MaxCompute Java.test" />
+      <item itemvalue="MaxCompute Java.type7" />
+      <item itemvalue="MaxCompute Java.battery" />
+      <item itemvalue="MaxCompute Java.test2" />
+      <item itemvalue="MaxCompute Java.mr-origin_station_log--pwd_cabinet_battery_type2" />
+      <item itemvalue="MaxCompute Java.origin_andriod_cabinetmonitoringinfo" />
+      <item itemvalue="MaxCompute Java.logtype1" />
+      <item itemvalue="MaxCompute Java.SystemUserRecord" />
+      <item itemvalue="MaxCompute Java.TestDataScan2" />
+      <item itemvalue="MaxCompute SQL.ImmotorSql.osql" />
+      <item itemvalue="MaxCompute SQL.immotor_bigdata" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testbtte" />
+        <item itemvalue="Application.ParseDemo" />
+        <item itemvalue="JUnit.TestFastJson.testFastJson (1)" />
+        <item itemvalue="MaxCompute Java.TestDataScan2" />
+        <item itemvalue="Application.ArrayCompare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c43bfa96-460f-47a1-a7cb-e9f0a3425972" name="Default" comment="" />
+      <created>1540776019118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540776019118</updated>
+      <workItem from="1557136208105" duration="604000" />
+      <workItem from="1557191896207" duration="29522000" />
+      <workItem from="1557227094440" duration="1530000" />
+      <workItem from="1557279592253" duration="68872000" />
+      <workItem from="1557718873112" duration="6489000" />
+      <workItem from="1557888571805" duration="107178000" />
+      <workItem from="1558409379869" duration="9210000" />
+      <workItem from="1558424129510" duration="30300000" />
+      <workItem from="1558940260351" duration="94963000" />
+      <workItem from="1559299165014" duration="54824000" />
+      <workItem from="1560741097867" duration="12569000" />
+      <workItem from="1560908711837" duration="1105000" />
+      <workItem from="1561343397318" duration="10982000" />
+      <workItem from="1561428333533" duration="456000" />
+      <workItem from="1561429767175" duration="53977000" />
+      <workItem from="1561605295993" duration="13446000" />
+      <workItem from="1561689141405" duration="98724000" />
+      <workItem from="1562639353957" duration="3400000" />
+      <workItem from="1562736786598" duration="14338000" />
+      <workItem from="1562824499586" duration="743000" />
+      <workItem from="1562825294824" duration="278000" />
+      <workItem from="1562825905845" duration="11082000" />
+      <workItem from="1562914236004" duration="50627000" />
+      <workItem from="1563327587245" duration="4338000" />
+      <workItem from="1563366675786" duration="11019000" />
+      <workItem from="1563863618349" duration="591000" />
+      <workItem from="1563876195006" duration="5066000" />
+      <workItem from="1563953934210" duration="2517000" />
+      <workItem from="1564371092681" duration="5471000" />
+      <workItem from="1564557663674" duration="53168000" />
+      <workItem from="1565832107173" duration="13374000" />
+      <workItem from="1566357477237" duration="37231000" />
+      <workItem from="1566464088483" duration="2356000" />
+      <workItem from="1566544274841" duration="4076000" />
+      <workItem from="1566800870082" duration="21647000" />
+      <workItem from="1567158434265" duration="9060000" />
+      <workItem from="1567395731501" duration="25592000" />
+      <workItem from="1567666363972" duration="31208000" />
+      <workItem from="1568169361719" duration="3074000" />
+      <workItem from="1568184439642" duration="1058000" />
+      <workItem from="1568266183242" duration="663000" />
+      <workItem from="1568602764092" duration="6073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestFastJson_testFastJson - 2019.08.19 at 17h 11m 05s.xml">
+      <configuration name="TestFastJson.testFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson_testFastJson_(1) - 2019.08.21 at 14h 34m 09s.xml">
+      <configuration name="TestFastJson.testFastJson (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.21 at 15h 01m 51s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.21 at 15h 06m 00s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.21 at 15h 06m 33s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.21 at 15h 06m 47s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.21 at 15h 19m 31s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.23 at 10h 38m 26s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson - 2019.08.23 at 10h 40m 03s.xml">
+      <configuration name="TestFastJson" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastJson_testFastJson_(1) - 2019.09.06 at 13h 37m 31s.xml">
+      <configuration name="TestFastJson.testFastJson (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="912801000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="472" y="171" width="1330" height="810" extended-state="0" />
+    <layout>
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Project Explorer" order="2" weight="0.15146667" />
+      <window_info id="Job Explorer" order="3" weight="0.35413334" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.21616872" side_tool="true" weight="0.3299356" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.7838313" visible="true" weight="0.250591" />
+      <window_info id="Structure" order="7" weight="0.24856439" />
+      <window_info id="Image Layers" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.36091954" side_tool="true" weight="0.40360612" />
+      <window_info anchor="bottom" id="Console" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4884393" weight="0.31650752" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32925472" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.064629845" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.63908046" weight="0.32465544" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.8900836" weight="0.46051168" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="FAQ Robot" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.02332815" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.12100213" />
+      <window_info anchor="right" id="Database" order="10" weight="0.020562029" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="12" weight="0.21414141" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Capture Tool" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Project Explorer" order="2" weight="0.33506495" />
+      <window_info id="Job Explorer" order="3" weight="0.6337953" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.21616872" side_tool="true" weight="0.3299356" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.7838313" visible="true" weight="0.05010661" />
+      <window_info id="Structure" order="7" weight="0.24856439" />
+      <window_info id="Image Layers" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.35980812" side_tool="true" weight="0.46941045" />
+      <window_info anchor="bottom" id="Console" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4884393" weight="0.27030033" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32938075" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.064629845" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.6401919" weight="0.40711904" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" sideWeight="0.8900836" visible="true" weight="0.41713014" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="FAQ Robot" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.02332815" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.12100213" />
+      <window_info anchor="right" id="Key Promoter X" order="10" weight="0.21437271" />
+      <window_info anchor="right" id="Database" order="11" weight="0.020562029" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mr/scooter/Scooter_battery_heartbeat.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mr/scooter/Scooter_battery_heartbeat.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/BatteryInfo.java</url>
+          <line>213</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype5.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maxcompute$logtype1.ic" NAME="logtype1 Coverage Results" MODIFIED="1558417749757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ashley.mrlogtype.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>jsonString</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/beans/LogTypeElevenList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#1512#1513#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1570#1571#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+            <element signature="e#1642#1643#0" expanded="true" />
+            <element signature="e#1673#1674#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1830#1831#0" expanded="true" />
+            <element signature="e#1870#1871#0" expanded="true" />
+            <element signature="e#1902#1903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/beans/LogBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/beans/LogTypeElevenBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ListUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/serializer/SerializeFilterable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/util/ServiceLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/util/IdentityHashMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/serializer/SerializeConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="314" selection-start-line="314" selection-end-line="314" />
+          <folding>
+            <element signature="e#7072#7073#0" expanded="true" />
+            <element signature="e#7109#7110#0" expanded="true" />
+            <element signature="e#13739#13740#0" expanded="true" />
+            <element signature="e#27572#27573#0" expanded="true" />
+            <element signature="e#27628#27629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/serializer/SerializeWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
+            <element signature="e#1418#1419#0" expanded="true" />
+            <element signature="e#1502#1503#0" expanded="true" />
+            <element signature="e#4887#4888#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/serializer/ListSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/serializer/JSONSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+          <folding>
+            <element signature="e#1073#1074#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#9482#9483#0" expanded="true" />
+            <element signature="e#9539#9540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="560" selection-start-line="560" selection-end-line="560" />
+          <folding>
+            <element signature="e#21907#21908#0" expanded="true" />
+            <element signature="e#21949#21950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/alibaba/fastjson/1.2.28.odps/fastjson-1.2.28.odps.jar!/com/alibaba/fastjson/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="e#1826#1827#0" expanded="true" />
+            <element signature="e#1866#1867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/Logtype2BackUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype3error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/origin_BatteryRealTimeDataCollectPartReadOnlyData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="76" column="28" lean-forward="true" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mr/battery/BatteryBMS_partRunControlData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/CRCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/DuplicateRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/distance/DateTerminator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="136" column="46" lean-forward="true" selection-start-line="136" selection-start-column="46" selection-end-line="136" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-801">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/EMotoCarLocus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/CabinetElectricRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mongo/MongoPromotion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3124">
+          <caret line="149" column="9" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/BatteryInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9856">
+          <caret line="461" column="71" selection-start-line="461" selection-start-column="71" selection-end-line="461" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mr/cabinet/Cabinet_hb3_ec_hb1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/aliyun/odps/odps-mapred-local/0.28.4-public/odps-mapred-local-0.28.4-public.jar!/com/aliyun/odps/mapred/LocalJobRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/aliyun/odps/odps-mapred-local/0.28.4-public/odps-mapred-local-0.28.4-public.jar!/com/aliyun/odps/mapred/local/MapDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2072">
+          <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/UDF/ArrayCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/battery/Battery_cycle_soh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4818">
+          <caret line="236" column="54" selection-start-line="236" selection-start-column="54" selection-end-line="236" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="118" column="75" selection-start-line="118" selection-start-column="75" selection-end-line="118" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/TestDataScan.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/TestDataScan2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/TestFastJson.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/LogType11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1455">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/teststr.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/TimeToTamp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/AshleyDateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/AshleyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/BatteryRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/banport/LogBanPort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="317" column="57" selection-start-line="317" selection-start-column="57" selection-end-line="317" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="227" column="90" selection-start-line="227" selection-start-column="11" selection-end-line="227" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8624">
+          <caret line="463" column="18" selection-start-line="463" selection-start-column="18" selection-end-line="463" selection-end-column="18" />
+          <folding>
+            <element signature="e#6769#6770#0" expanded="true" />
+            <element signature="e#6807#6808#0" expanded="true" />
+            <element signature="e#6943#6944#0" expanded="true" />
+            <element signature="e#6985#6986#0" expanded="true" />
+            <element signature="e#7140#7141#0" expanded="true" />
+            <element signature="e#7185#7186#0" expanded="true" />
+            <element signature="e#7347#7348#0" expanded="true" />
+            <element signature="e#7389#7390#0" expanded="true" />
+            <element signature="e#7540#7541#0" expanded="true" />
+            <element signature="e#7585#7586#0" expanded="true" />
+            <element signature="e#16080#16081#0" expanded="true" />
+            <element signature="e#16114#16115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7">
+          <caret line="227" column="61" selection-start-line="227" selection-start-column="61" selection-end-line="227" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#15285#15286#0" expanded="true" />
+            <element signature="e#15318#15319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.28.odps</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

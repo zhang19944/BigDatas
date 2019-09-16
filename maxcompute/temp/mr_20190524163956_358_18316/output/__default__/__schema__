@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=testlogtypesix
+columns=list:STRING,pid:STRING,type:STRING
+partitions=pt:STRING

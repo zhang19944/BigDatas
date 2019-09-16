@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_log2
+columns=content:STRING,collecttime:BIGINT,pts:STRING
+partitions=pt:STRING

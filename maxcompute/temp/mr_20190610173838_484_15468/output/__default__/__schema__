@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=hard_battery_device
+columns=prver:BIGINT,blver:DOUBLE,fwmsv:DOUBLE,fwrev:DOUBLE,fwbnh:DOUBLE,fwbnl:BIGINT,mcun:STRING,btype:BIGINT,bvolt:DOUBLE,bcap:BIGINT,sn:STRING,erech:BIGINT,lrech:BIGINT,ltsta_0:BIGINT,ltsta_1:BIGINT,ltmaxv:BIGINT,ltmaxvn:BIGINT,ltminv:BIGINT,ltminvn:BIGINT,ltmaxt:DOUBLE,ltmaxtn:BIGINT,ltmint:DOUBLE,ltmintn:BIGINT,ltmaxcc:DOUBLE,ltmaxdc:DOUBLE,collecttime:DATETIME,pid:STRING,id:STRING
+partitions=pt:STRING

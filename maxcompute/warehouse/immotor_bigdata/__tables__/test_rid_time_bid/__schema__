@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_rid_time_bid
+columns=times:STRING,rid:STRING,bid:STRING
+partitions=pt:STRING

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration>
+<property><name>odps.mapred.reduce.class</name><value>com.aliyun.odps.examples.mr.Maxcompute_tables_batteries_temperature$SumReducer</value></property>
+<property><name>odps.mapred.local.download.mode</name><value>AUTO</value></property>
+<property><name>odps.mapred.local.record.download.limit</name><value>100</value></property>
+<property><name>odps.mapred.map.class</name><value>com.aliyun.odps.examples.mr.Maxcompute_tables_batteries_temperature$TokenizerMapper</value></property>
+<property><name>odps.mapred.output.desc</name><value>[{"tblName":"battery_in_out_station_temperature_to_loghub","partSpec":{"pt":"20181024"},"label":"__default__"}]</value></property>
+<property><name>odps.mapred.resources</name><value/></property>
+<property><name>odps.mapred.mapoutput.key.schema</name><value>id:STRING,pid:STRING</value></property>
+<property><name>odps.mapred.job.name</name><value>mr_20181029105610_421_162768</value></property>
+<property><name>odps.mapred.mapoutput.value.schema</name><value>pid:STRING,bid:STRING,in_time:DATETIME,out_time:DATETIME,temperature_in:DOUBLE,temperaure_out:DOUBLE</value></property>
+<property><name>odps.mapred.local.temp.retain</name><value>true</value></property>
+<property><name>odps.mapred.input.desc</name><value>[{"tblName":"hard_batteryrealtimedatacollect_partreadonlydata","partSpec":{"pt":"20181024"},"label":"__default__"},{"tblName":"t_battery_relation","partSpec":{"pt":"20181024"},"label":"__default__"}]</value></property>
+</configuration>

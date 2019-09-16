@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_sysuserlog
+columns=user_id:STRING,sn:STRING,content:STRING,create_time:STRING,timelogin:STRING,timeloginout:STRING
+partitions=pt:STRING

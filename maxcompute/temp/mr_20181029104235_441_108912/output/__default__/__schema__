@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=battery_in_out_station_temperature_to_loghub
+columns=pid:STRING,bid:STRING,in_time:DATETIME,out_time:DATETIME,temperature_in:DOUBLE,temperature_out:DOUBLE
+partitions=pt:STRING

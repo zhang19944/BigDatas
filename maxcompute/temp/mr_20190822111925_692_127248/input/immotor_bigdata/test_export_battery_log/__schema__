@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=test_export_battery_log
+columns=content:STRING,collecttime:BIGINT,ps:STRING
+partitions=pt:STRING

@@ -1,0 +1,4 @@
+project=immotor_bigdata
+table=origin_t_sys_station_log
+columns=id:STRING,user_id:STRING,type:STRING,content:STRING,create_time:STRING,sn:STRING,pid:STRING
+partitions=pt:STRING
