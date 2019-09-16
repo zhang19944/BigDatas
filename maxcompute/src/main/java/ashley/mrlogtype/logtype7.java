@@ -58,8 +58,8 @@ public class logtype7 {
                     int singleLen = byteToInt(data[1]);
                     if(data.length < minLength + num*singleLen){
                         System.out.println("数据有问题");
-
                     }else {
+                        //ParseDemo.BatteryInfo对象映射
                         List<ParseDemo.BatteryInfo> batteries = new ArrayList<>();
                         for(int i = 0; i < num; i++){
                             ParseDemo.BatteryInfo info = new ParseDemo.BatteryInfo();
@@ -249,8 +249,37 @@ public class logtype7 {
                 (byte)((b >> 0) & 0x1);
     }
 
+    /**
+     * 单个字节转化为Int数值
+     * @param b
+     * @return
+     */
     public static int byteToInt(byte b) {
         return (b & 0xFF);
+    }
+    /**
+     * 高位在前
+     * 注意，函数中不会对字节数组长度进行判断，请自行保证传入参数的正确性。
+     */
+    public static int bytesToIntBig(byte[] b) {
+        int len = b.length;
+        int result = 0;
+        for(int i=0; i<len; i++){
+            result += (b[i] & 0xFF) << (8 * (len - i - 1));
+        }
+        return result;
+    }
+
+    /**
+     * 低位在前
+     */
+    public static int bytesToInt(byte[] b){
+        int len = b.length;
+        int result = 0;
+        for(int i = 0; i < len; i++){
+            result += (b[i]&0xff) << (8 * i);
+        }
+        return result;
     }
     public static byte[] hexString2Byte(String str){
         str = str.replace("[","");

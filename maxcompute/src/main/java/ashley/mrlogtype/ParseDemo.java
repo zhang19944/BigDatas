@@ -167,10 +167,12 @@ public class ParseDemo {
                 if (length > 1) {
                     soc = byteToInt(data[1]);
                 }
+                //小端
                 if (length > 3) {
                     System.arraycopy(data, 2, byteShort, 0, 2);
                     voltage = bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 5) {
                     System.arraycopy(data, 4, byteShort, 0, 2);
                     current = (short) (bytesToInt(byteShort) - 30000);
@@ -178,20 +180,25 @@ public class ParseDemo {
                 if (length > 6) {
                     temperature = byteToInt(data[6]) - 40;
                 }
+                //按位解析
                 if (length > 7) {
                     fault = byteToInt(data[7]);
                 }
+                //按位解析
                 if (length > 8) {
                     damage = byteToInt(data[8]);
                 }
+                //小端
                 if (length > 10) {
                     System.arraycopy(data, 9, byteShort, 0, 2);
                     cycle = bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 16) {
                     System.arraycopy(data, 11, byteLong, 0, 6);
                     id = byte2String(byteLong, 6);
                 }
+                //小端
                 if (length > 18) {
                     System.arraycopy(data, 17, byteShort, 0, 2);
                     nominalVoltage = bytesToInt(byteShort);
@@ -204,6 +211,7 @@ public class ParseDemo {
                     nominalCurrent = (short) bytesToInt(byteShort);
                     reserved = byteToInt(data[20]);
                 }
+                //小端
                 if (length > 22) {
                     System.arraycopy(data, 21, byteShort, 0, 2);
                     designCapacity = bytesToInt(byteShort);
@@ -220,54 +228,66 @@ public class ParseDemo {
                 if (length > 26) {
                     ct = byteToInt(data[26]) - 40;
                 }
+                //按位解析
                 if (length > 28) {
                     System.arraycopy(data, 27, byteShort, 0, 2);
                     df1 = (short) bytesToInt(byteShort);
                 }
+                //按位解析
                 if (length > 30) {
                     System.arraycopy(data, 29, byteShort, 0, 2);
                     df2 = (short) bytesToInt(byteShort);
-                }
+                }//按位解析
                 if (length > 32) {
                     System.arraycopy(data, 31, byteShort, 0, 2);
                     of1 = (short) bytesToInt(byteShort);
                 }
+                //按位解析
                 if (length > 34) {
                     System.arraycopy(data, 33, byteShort, 0, 2);
                     of2 = (short) bytesToInt(byteShort);
                 }
+                //按位解析
                 if (length > 36) {
                     System.arraycopy(data, 35, byteShort, 0, 2);
                     bs = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 38) {
                     System.arraycopy(data, 37, byteShort, 0, 2);
                     bv0 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 40) {
                     System.arraycopy(data, 39, byteShort, 0, 2);
                     bv1 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 42) {
                     System.arraycopy(data, 41, byteShort, 0, 2);
                     bv2 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 44) {
                     System.arraycopy(data, 43, byteShort, 0, 2);
                     bv3 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 46) {
                     System.arraycopy(data, 45, byteShort, 0, 2);
                     bv4 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 48) {
                     System.arraycopy(data, 47, byteShort, 0, 2);
                     bv5 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 50) {
                     System.arraycopy(data, 49, byteShort, 0, 2);
                     bv6 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 52) {
                     System.arraycopy(data, 51, byteShort, 0, 2);
                     bv7 = (short) bytesToInt(byteShort);
@@ -300,6 +320,7 @@ public class ParseDemo {
                     System.arraycopy(data, 65, byteShort, 0, 2);
                     bv14 = (short) bytesToInt(byteShort);
                 }
+                //小端
                 if (length > 68) {
                     System.arraycopy(data, 67, byteShort, 0, 2);
                     bv15 = (short) bytesToInt(byteShort);
@@ -307,6 +328,7 @@ public class ParseDemo {
                 if (length>69){
                     tvsTemp = (short) byteToInt(data[68]);
                 }
+                //小端
                 if (length>71){
                     System.arraycopy(data, 70, byteShort, 0, 2);
                     maxVoltRate= (short) bytesToInt(byteShort);
@@ -314,10 +336,12 @@ public class ParseDemo {
                 if (length>72){
                     maxVoltRateInd = (short) byteToInt(data[71]);
                 }
+                //小端
                 if (length>74){
                     System.arraycopy(data, 73, byteShort, 0, 2);
                     maxTempRate= (short) bytesToInt(byteShort);
                 }
+
                 if (length>75){
                     maxTempRateInd = (short) byteToInt(data[74]);
                 }
@@ -489,6 +513,7 @@ public class ParseDemo {
             return (b & 0xFF);
         }
 
+        //低位在前(小端)
         public int bytesToInt(byte[] b){
             int len = b.length;
             int result = 0;
@@ -497,6 +522,16 @@ public class ParseDemo {
             }
             return result;
         }
+        //高位在前(大端)
+        public int bytesToIntBig(byte[] b){
+            int len = b.length;
+            int result = 0;
+            for(int i = 0; i < len; i++){
+                result += (b[i]&0xff) << (8 * (len-i-1));
+            }
+            return result;
+        }
+
         public String byte2String(byte[] buff, int size) {
             StringBuffer sbuf = new StringBuffer();
             for (int i = 0; i < size && i < buff.length; i++) {

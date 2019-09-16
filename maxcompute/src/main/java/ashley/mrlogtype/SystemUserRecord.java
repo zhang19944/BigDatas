@@ -80,8 +80,6 @@ public class SystemUserRecord {
             String[] str = {"登录", "退出登录"};
             int temp = 0;
 
-
-
             for (int i = 0; i < arraylist.size() - 1; i++) {
             /*    if (arraylist.get(i).getCreate_time() == arraylist.get(i + 1).getCreate_time()) {
                     return;
@@ -97,7 +95,6 @@ public class SystemUserRecord {
                     if (temp == 1) {
                         time2 = arraylist.get(i).getCreate_time();
                     }
-
                     result.setString(0, user_id);
                     result.setString(1, sn);
                     result.setString(2, arraylist.get(i).getContent());

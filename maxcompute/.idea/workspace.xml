@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c43bfa96-460f-47a1-a7cb-e9f0a3425972" name="Default" comment="" />
+    <list default="true" id="c43bfa96-460f-47a1-a7cb-e9f0a3425972" name="Default" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ashley/utils/NumberBytes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maxcompute.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/ParseDemo$BatteryInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/ParseDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/SystemUserRecord$SumReducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/SystemUserRecord$systemMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/SystemUserRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/logtype7$BatteryInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/logtype7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ashley/mrlogtype/logtype7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/maxcompute.kotlin_module" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/battery_chargetime_50/target/" />
@@ -37,91 +53,20 @@
     <favorites_list name="maxcompute" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4990366">
+    <splitter split-orientation="horizontal" split-proportion="0.46550292">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="7">
-                  <caret line="227" column="61" selection-start-line="227" selection-start-column="61" selection-end-line="227" selection-end-column="61" />
+                <state relative-caret-position="3598">
+                  <caret line="363" column="19" selection-start-line="363" selection-start-column="19" selection-end-line="363" selection-end-column="19" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#15285#15286#0" expanded="true" />
-                    <element signature="e#15318#15319#0" expanded="true" />
+                    <element signature="e#14164#14165#0" expanded="true" />
+                    <element signature="e#14202#14203#0" expanded="true" />
+                    <element signature="e#14391#14392#0" expanded="true" />
+                    <element signature="e#14427#14428#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/AshleyDateUtils.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype6.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="344">
-                  <caret line="317" column="57" selection-start-line="317" selection-start-column="57" selection-end-line="317" selection-end-column="57" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype5.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="116">
-                  <caret line="227" column="90" selection-start-line="227" selection-start-column="11" selection-end-line="227" selection-end-column="90" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/AshleyUtils.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/BatteryRecord.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1012">
-                  <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/banport/LogBanPort.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="836">
-                  <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/pom.xml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -131,23 +76,26 @@
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="8624">
-                  <caret line="463" column="18" selection-start-line="463" selection-start-column="18" selection-end-line="463" selection-end-column="18" />
+                <state relative-caret-position="232">
+                  <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
                   <folding>
-                    <element signature="e#6769#6770#0" expanded="true" />
-                    <element signature="e#6807#6808#0" expanded="true" />
-                    <element signature="e#6943#6944#0" expanded="true" />
-                    <element signature="e#6985#6986#0" expanded="true" />
-                    <element signature="e#7140#7141#0" expanded="true" />
-                    <element signature="e#7185#7186#0" expanded="true" />
-                    <element signature="e#7347#7348#0" expanded="true" />
-                    <element signature="e#7389#7390#0" expanded="true" />
-                    <element signature="e#7540#7541#0" expanded="true" />
-                    <element signature="e#7585#7586#0" expanded="true" />
-                    <element signature="e#16080#16081#0" expanded="true" />
-                    <element signature="e#16114#16115#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#15340#15341#0" expanded="true" />
+                    <element signature="e#15373#15374#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/NumberBytes.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1056">
+                  <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -156,8 +104,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="154">
-                  <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+                <state relative-caret-position="168">
+                  <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1584">
+                  <caret line="79" selection-start-line="79" selection-end-line="80" />
                 </state>
               </provider>
             </entry>
@@ -245,11 +202,17 @@
       <dir>D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\distance</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/MongoPromotion.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype3.java" />
         <option value="$PROJECT_DIR$/src/main/java/battery/HardBatteryRealTimePartOnlyData.java" />
         <option value="$PROJECT_DIR$/src/main/java/mr/Android_BatteryRealTimeDataCollectPartReadOnlyData.java" />
         <option value="$PROJECT_DIR$/src/main/java/battery/origin_BatteryRealTimeDataCollectPartReadOnlyData.java" />
@@ -297,8 +260,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ashley/utils/TimeToTamp.java" />
         <option value="$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/utils/NumberBytes.java" />
         <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java" />
       </list>
     </option>
   </component>
@@ -339,11 +304,12 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="472" />
-    <option name="y" value="171" />
-    <option name="width" value="1330" />
-    <option name="height" value="810" />
+    <option name="x" value="314" />
+    <option name="y" value="121" />
+    <option name="width" value="1551" />
+    <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -351,6 +317,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -402,18 +369,26 @@
               <item name="ashley" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="maxcompute" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maxcompute" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ashley" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ashley/utils" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -421,16 +396,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\文档_数据字典" />
-      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\utils" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ashley.origin_andriod_cabinetmonitoringinfo" />
+      <recent name="ashley.beans" />
+      <recent name="bean.cabinet" />
+      <recent name="battery" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code2-Immotor\BigDatas\maxcompute\src\main\java\ashley\utils" />
       <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\mrlogtype" />
       <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\utils" />
       <recent name="E:\BaiduNetdiskDownload\maxcompute\src\main\java\util" />
       <recent name="E:\BaiduNetdiskDownload\maxcompute\src\main\java\scooter" />
-      <recent name="E:\BaiduNetdiskDownload" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="mr.test" />
@@ -439,11 +416,9 @@
       <recent name="mr" />
       <recent name="temperature" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="ashley.origin_andriod_cabinetmonitoringinfo" />
-      <recent name="ashley.beans" />
-      <recent name="bean.cabinet" />
-      <recent name="battery" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\文档_数据字典" />
+      <recent name="D:\Code2-Immotor\maxcompute\maxcompute\src\main\java\ashley\utils" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1010,7 +985,16 @@
       <workItem from="1568184439642" duration="1058000" />
       <workItem from="1568266183242" duration="663000" />
       <workItem from="1568602764092" duration="6073000" />
+      <workItem from="1568616454656" duration="9064000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1568616804985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568616804985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1046,10 +1030,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="912801000" />
+    <option name="totallyTimeSpent" value="921865000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="472" y="171" width="1330" height="810" extended-state="0" />
+    <frame x="314" y="121" width="1551" height="1038" extended-state="0" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
@@ -1057,17 +1041,17 @@
       <window_info id="Job Explorer" order="3" weight="0.35413334" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.21616872" side_tool="true" weight="0.3299356" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.7838313" visible="true" weight="0.250591" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.7838313" visible="true" weight="0.3328859" />
       <window_info id="Structure" order="7" weight="0.24856439" />
       <window_info id="Image Layers" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.36091954" side_tool="true" weight="0.40360612" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.36206895" side_tool="true" weight="0.24386503" />
       <window_info anchor="bottom" id="Console" order="1" />
-      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4884393" weight="0.31650752" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4884393" visible="true" weight="0.15" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32925472" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.064629845" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.63908046" weight="0.32465544" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.63793105" weight="0.27572018" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.8900836" weight="0.46051168" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1134,6 +1118,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1179,56 +1167,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/beans/LogTypeElevenList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#920#921#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1180#1181#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
-            <element signature="e#1382#1383#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
-            <element signature="e#1512#1513#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
-            <element signature="e#1570#1571#0" expanded="true" />
-            <element signature="e#1610#1611#0" expanded="true" />
-            <element signature="e#1642#1643#0" expanded="true" />
-            <element signature="e#1673#1674#0" expanded="true" />
-            <element signature="e#1700#1701#0" expanded="true" />
-            <element signature="e#1740#1741#0" expanded="true" />
-            <element signature="e#1772#1773#0" expanded="true" />
-            <element signature="e#1803#1804#0" expanded="true" />
-            <element signature="e#1830#1831#0" expanded="true" />
-            <element signature="e#1870#1871#0" expanded="true" />
-            <element signature="e#1902#1903#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ashley/beans/LogBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1416,13 +1354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-801">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/EMotoCarLocus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1532,10 +1463,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/teststr.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/TimeToTamp.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/AshleyDateUtils.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="239">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1556,27 +1487,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/banport/LogBanPort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/SystemUserRecord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1584">
+          <caret line="79" selection-start-line="79" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="1144">
+          <caret line="52" column="20" lean-forward="true" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/banport/LogBanPort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="317" column="57" selection-start-line="317" selection-start-column="57" selection-end-line="317" selection-end-column="57" />
+        <state relative-caret-position="672">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1590,49 +1528,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        <state relative-caret-position="344">
+          <caret line="317" column="57" selection-start-line="317" selection-start-column="57" selection-end-line="317" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/test/testbtte.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/AshleyDateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ashley/utils/NumberBytes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/ParseDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8624">
-          <caret line="463" column="18" selection-start-line="463" selection-start-column="18" selection-end-line="463" selection-end-column="18" />
+        <state relative-caret-position="3598">
+          <caret line="363" column="19" selection-start-line="363" selection-start-column="19" selection-end-line="363" selection-end-column="19" />
           <folding>
-            <element signature="e#6769#6770#0" expanded="true" />
-            <element signature="e#6807#6808#0" expanded="true" />
-            <element signature="e#6943#6944#0" expanded="true" />
-            <element signature="e#6985#6986#0" expanded="true" />
-            <element signature="e#7140#7141#0" expanded="true" />
-            <element signature="e#7185#7186#0" expanded="true" />
-            <element signature="e#7347#7348#0" expanded="true" />
-            <element signature="e#7389#7390#0" expanded="true" />
-            <element signature="e#7540#7541#0" expanded="true" />
-            <element signature="e#7585#7586#0" expanded="true" />
-            <element signature="e#16080#16081#0" expanded="true" />
-            <element signature="e#16114#16115#0" expanded="true" />
+            <element signature="e#14164#14165#0" expanded="true" />
+            <element signature="e#14202#14203#0" expanded="true" />
+            <element signature="e#14391#14392#0" expanded="true" />
+            <element signature="e#14427#14428#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ashley/mrlogtype/logtype7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="227" column="61" selection-start-line="227" selection-start-column="61" selection-end-line="227" selection-end-column="61" />
+        <state relative-caret-position="232">
+          <caret line="64" column="50" selection-start-line="64" selection-start-column="50" selection-end-line="64" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#15285#15286#0" expanded="true" />
-            <element signature="e#15318#15319#0" expanded="true" />
+            <element signature="e#15340#15341#0" expanded="true" />
+            <element signature="e#15373#15374#0" expanded="true" />
           </folding>
         </state>
       </provider>
